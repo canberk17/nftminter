@@ -1,2 +1,2 @@
-# nftminter
-Create an NFT minter application for artists.
+# NFTminter
+An NFT minter application for artists.
